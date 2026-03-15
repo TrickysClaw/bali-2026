@@ -254,6 +254,16 @@ export const initialIdeas: IdeaCategory[] = [
       { id: "i32", name: "Anika Tailor", area: "Kuta/Legian", note: "Another top-rated Bali tailor. Wide fabric selection including imported Italian wool. A couple of suits + extra shirts will run under $900 AUD — a steal compared to back home.", type: "culture", link: "https://anikatailor.com/", photo: "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?w=1200", cost: 200, lat: -8.7220, lng: 115.1700 },
     ],
   },
+  {
+    category: "Boats & Water Sports",
+    emoji: "🚤",
+    items: [
+      { id: "i33", name: "Jet Ski Rental — Tanjung Benoa", area: "Tanjung Benoa", note: "The water sports capital of Bali. Jet ski rentals from ~$25 AUD/15 mins. Rip around Benoa harbour — they'll guide you on a route. Bargain hard, listed prices are always inflated.", type: "adventure", link: "https://www.tripadvisor.com/Attractions-g294226-Activities-c61-t187-Bali.html", photo: "https://images.unsplash.com/photo-1626163015551-18a0e9287ec2?w=1200", cost: 35, lat: -8.7730, lng: 115.2320 },
+      { id: "i34", name: "Private Speedboat Charter", area: "Nusa Dua / Sanur", note: "Charter a private speedboat for the boys — island hop to Nusa Penida/Lembongan or just cruise the coast. Half-day from ~$350-500 AUD split 4 ways. GetMyBoat or Bali Boat Charters.", type: "adventure", link: "https://www.bali-boat-charters.com/", photo: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1200", cost: 100, lat: -8.7500, lng: 115.2230 },
+      { id: "i35", name: "Parasailing & Flyboard", area: "Tanjung Benoa", note: "Get launched 70m in the air parasailing or try a flyboard (water-powered jetpack). Tanjung Benoa has every water sport imaginable. ~$25-40 AUD per activity.", type: "adventure", link: "https://www.getmyboat.com/boat-rental/Bali--Indonesia/", photo: "https://images.unsplash.com/photo-1530870110042-98b2cb110834?w=1200", cost: 35, lat: -8.7710, lng: 115.2310 },
+      { id: "i36", name: "Sunset Catamaran Cruise", area: "Benoa Harbour", note: "Chill option — sunset cruise on a catamaran with drinks and dinner. Aristocat or Bali Hai cruises are popular. ~$80-120 AUD pp. Great vibes watching the sun go down on the water.", type: "chill", link: "https://www.bali-boat-charters.com/", photo: "https://images.unsplash.com/photo-1500514966906-fe245eea9344?w=1200", cost: 100, lat: -8.7450, lng: 115.2100 },
+    ],
+  },
 ];
 
 export const packingList = [
