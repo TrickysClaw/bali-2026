@@ -245,6 +245,15 @@ export const initialIdeas: IdeaCategory[] = [
       { id: "i29", name: "Lempuyang (Gates of Heaven)", area: "East Bali", note: "Mount Agung framed perfectly through an ancient temple gate — one of the most photographed spots in Indonesia. 2-hour drive but absolutely worth it.", type: "culture", link: "https://maps.google.com/?q=Lempuyang+Temple+Bali", photo: "https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?w=1200", cost: 5, lat: -8.3917, lng: 115.6308 },
     ],
   },
+  {
+    category: "Shopping & Tailoring",
+    emoji: "🧵",
+    items: [
+      { id: "i30", name: "Custom Suits — Bali Tailor", area: "Seminyak", note: "Bali is like Vietnam for suits! Get custom-made suits, shirts, and pants for a fraction of Aussie prices. Full suit from ~$100-200 AUD. 24-48hr turnaround with fittings.", type: "culture", link: "https://www.balitailor.net/", photo: "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=1200", cost: 150, lat: -8.6890, lng: 115.1680 },
+      { id: "i31", name: "Micall's Tailor", area: "Seminyak", note: "20+ year family-owned tailor shop. Great for suits, blazers, and dress shirts. Bring a reference pic of what you want — they'll nail it. Book early in the trip so you have time for alterations.", type: "culture", link: "https://micallstailor.com/", photo: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1200", cost: 180, lat: -8.6900, lng: 115.1650 },
+      { id: "i32", name: "Anika Tailor", area: "Kuta/Legian", note: "Another top-rated Bali tailor. Wide fabric selection including imported Italian wool. A couple of suits + extra shirts will run under $900 AUD — a steal compared to back home.", type: "culture", link: "https://anikatailor.com/", photo: "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?w=1200", cost: 200, lat: -8.7220, lng: 115.1700 },
+    ],
+  },
 ];
 
 export const packingList = [
